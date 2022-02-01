@@ -11,10 +11,15 @@
   
   <h3 align="left">Habilidades:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-  <a href="https://github.com/KiF1">
+ 
+ <div>
+ <a href="https://github.com/KiF1">
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=KiF1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiF1&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  ![Snake animation](https://github.com/Thiagobiscoito/Thiagobiscoito/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ##
 
