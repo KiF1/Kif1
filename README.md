@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, sou Abner Santos</h1>
 <h3 align="center">Atualmente faço o curso de desenvolvedor Full Stack do programador Br (HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React NodeJS e MongoDB). Atualmente estou focado em estudar React e Node Js.</h3>
 
--🌱 Estou me especializando em React JS e Node JS.
+
+- 🌱 Estou me especializando em React JS e Node JS.
 - 😄 Sempre em busca de aprender novas tecnologias.
 - 📫 Contate-me pelo meu e-mail **abner.kif1@gmail.com** ou no telefone +55 (81) 984421742 (número com whatsapp).
 
