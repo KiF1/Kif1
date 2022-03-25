@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Abner Santos</h1>
-<h3 align="center">Atualmente faço o curso de desenvolvedor Full Stack do programador Br (HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React NodeJS e MongoDB). Atualmente estou focado em estudar React e Node Js.</h3>
+<h3 align="center">Atualmente faço o curso de desenvolvedor Full Stack do programador Br (HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React NodeJS e MongoDB). Atualmente estou focado em estudar React, Typscript e Angular.</h3>
 
 
 - 🌱 Estou me especializando em React JS e Node JS.
