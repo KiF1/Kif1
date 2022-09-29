@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, sou Abner Santos</h1>
-<h3 align="center">Atualmente faço o curso de desenvolvedor Full Stack do programador Br (HTML, CSS, JavaScript, Firebase, JQuery, Bootstrap, React NodeJS e MongoDB). Atualmente estou focado em estudar Node.JS, React.JS e React Native. Com o obejtivo de me tornar um desenvolvedor Full-stack</h3>
+<h3 align="center">Atualmente atuo como desenvolvedor Front-end atuando na criação de páginas e implementações com Html, Css, JS, Booststrap, SAAS, Jquery,Etc.</h3>
+<h3 align="center">Meu atual foco tem sido aprimorar meus conhecimentos no Front-end e também no back-end pelas linguagens que venho estudando no momento como React.Js, React.Native, Node.Js e Elixir</h3>
 
 
 - 🌱 Estou me especializando em React JS e Node JS.
