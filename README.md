@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Abner Santos</h1>
-<h3 align="center">Atualmente atuo como desenvolvedor Front-end atuando na criação de páginas e implementações com React.Js e Next.Js</h3>
-<h3 align="center">Meu atual foco tem sido aprimorar meus conhecimentos no Front-end e também no back-end pelas linguagens que venho estudando no momento como React.Js, Typescript, Node.Js e React Native</h3>
+<h3 align="center">Atualmente atuo como desenvolvedor Front-end atuando na criação de páginas e implementações com React.Js e Next.Js.</h3>
+<h3 align="center">Meu atual foco tem sido aprimorar meus conhecimentos no Front-end e também no back-end pelas linguagens que venho estudando no momento como React.Js, Typescript, Node.Js e React Native.</h3>
 
 
 - 🌱 Estou me especializando em React.Js, Typescript e Node.Js.
