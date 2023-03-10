@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Abner Santos, desenvolvedor Front-end</h1>
 
-- 🌱 Estou me especializando em React.Js, Typescript, Node.Js e React Native.
+- 🌱 Desenvolvo em React.Js, Node.Js e React Native.
 - 😄 Sempre em busca de aprender novas tecnologias.
 - 📫 Contate-me pelo meu e-mail **abner.kif1@gmail.com** ou no telefone +55 (81) 984421742 (número com whatsapp).
 
