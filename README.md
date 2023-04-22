@@ -3,6 +3,7 @@
 - 🌱 Desenvolvo em React.Js, Node.Js e React Native.
 - 😄 Sempre em busca de aprender novas tecnologias.
 - 📫 Contate-me pelo meu e-mail **abner.kif1@gmail.com** ou no telefone +55 (81) 984421742 (número com whatsapp).
+- 🔗 <a href="https://www.linkedin.com/in/abner-santos-b195b8228/" target="_blank">Também conheça o meu Linkedin</a> 
 
 ##
 
