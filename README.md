@@ -7,7 +7,7 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass,js,ts,react,next,nodejs,express,prisma,postgres,sqlite,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,sass,js,ts,react,next,nodejs,nest,prisma,postgres,sqlite,github)](https://skillicons.dev) 
  
  ##
  
